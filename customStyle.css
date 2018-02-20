@@ -1,0 +1,84 @@
+.customDiv{
+	
+	margin:  0 auto;
+	min-height:350px;
+	width: 320px;
+	background-color: cyan;
+	display: block;
+	text-align: center;
+	align-items: left;
+	color: black;
+	font-size: medium;
+           }
+
+.sidebarContent{
+	margin: 0px;	
+    width: 300px;
+	height: 45px;
+	font-family: 'comic sans MS';
+	font-size: 22px; 
+	text-align: center;
+	line-height: 45px;	
+
+}
+
+#profile_pic{
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 height: 300px;
+	 width:250px;
+}
+
+#one {
+	background-color: #6666FF;
+	color: #FFF;
+    //margin-left: -15px;
+	width: 320px;
+
+}
+
+#two {
+	background-color: #6699FF;
+	color: #FFF;
+	width: 320px;
+	//margin-left: -15px;
+}
+
+.about_me{
+	//background-color: #CCCCCC;
+	//color: #FFF;
+	font-family: 'Comfortaa', cursive;
+	//font-family: 'comic sans MS';
+	font-size: 16px;	
+
+
+}
+.personal{
+	
+	background-color: #CCCCCC;
+	color: #000000;
+	text-align: left;
+	font-size: 18px;
+	font-family: 'comic sans MS';
+	width: 320px;
+    
+}
+.skills{
+
+
+	background-color: #CCCCCC;
+	color: #000000;
+	text-align: left;
+	font-size: 15px;
+	font-family: 'comic sans MS' ;
+    width: 360px;
+}
+
+h5 {
+	clear;
+	font-size: 20px;
+}
+
+
+
